@@ -1,2 +1,1 @@
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sqscripter&theme=onedark)](https://github.com/sqscripter/github-profile-trophy)
+<img width=400 src='https://streak-stats.demolab.com?user=joshxfi&theme=vue-dark&hide_border=true' />
